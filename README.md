@@ -10,6 +10,7 @@ Welcome to TechiesConnect, a social hub for students to interact globally, read 
 5. [Usage](#usage)
 6. [Contributing](#contributing)
 7. [License](#license)
+8. [Prototype](#Prototype)
 
 ## Introduction
 TechiesConnect is a platform designed to bring students from around the country and even globally together in a collaborative and educational environment. Whether you're looking to connect with peers, share knowledge through blogs, participate in communities, or enhance your skills through mastercamps and learning materials, TechiesConnect has something for everyone.
@@ -59,3 +60,6 @@ We welcome contributions from the community to improve and expand TechiesConnect
 
 ## License
 This project is licensed under the MIT License.
+
+## prototype
+<iframe width="800" height="450" src="[YOUR_FIGMA_SHAREABLE_LINK](https://www.figma.com/proto/AYDYVfXzDfok1G4DXiniKw/TechiesConnect?page-id=103%3A2&type=design&node-id=106-605&viewport=622%2C-1937%2C1.34&t=TMAudsKGndZ8RSqY-1&scaling=min-zoom&mode=design)https://www.figma.com/proto/AYDYVfXzDfok1G4DXiniKw/TechiesConnect?page-id=103%3A2&type=design&node-id=106-605&viewport=622%2C-1937%2C1.34&t=TMAudsKGndZ8RSqY-1&scaling=min-zoom&mode=design" frameborder="0" allowfullscreen></iframe>
