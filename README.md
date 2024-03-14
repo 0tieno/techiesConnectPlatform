@@ -78,11 +78,7 @@ This project is licensed under the MIT License.
 <iframe width="800" height="450" src="[YOUR_FIGMA_SHAREABLE_LINK](https://www.figma.com/proto/AYDYVfXzDfok1G4DXiniKw/TechiesConnect?page-id=103%3A2&type=design&node-id=106-605&viewport=622%2C-1937%2C1.34&t=TMAudsKGndZ8RSqY-1&scaling=min-zoom&mode=design)https://www.figma.com/proto/AYDYVfXzDfok1G4DXiniKw/TechiesConnect?page-id=103%3A2&type=design&node-id=106-605&viewport=622%2C-1937%2C1.34&t=TMAudsKGndZ8RSqY-1&scaling=min-zoom&mode=design" frameborder="0" allowfullscreen></iframe>
 ### Authentication
 (![Prototype](public/Auth_page.png))
-(![Prototype](public/Login_page.png))
+(![Prototype](public/Landingpage.png))
 ### Pages
-(![Prototype](public/landingpage.png))
+(![Prototype](public/Landingpage.png))
 (![Prototype](public/techhub.png))
-
-=======
-
-> > > > > > > 8694cd977174b3b1f480a97ada298d3a5b7c2be9:README.md
