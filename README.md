@@ -1,6 +1,20 @@
 # TechiesConnect
 
-Welcome to TechiesConnect, a social hub for students to interact globally, read and create blogs, join communities, attend mastercamps, and access learning materials. This project is built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and is developed by Kevin Mbugua Kiarie and Ronney Otieno.
+"Where Campus Tech Minds Meet."
+
+techiesConnect is a mobile-first platform designed to connect tech students within a university ecosystem. It empowers students to:
+
+ - 💼 Showcase their skills and projects via profiles.
+
+ - 🤝 Find teammates or co-founders for personal or course-related projects.
+
+ - 📆 Discover and RSVP to campus events, meetups, and hackathons.
+
+ - 💬 Ask technical questions and get real-time peer support.
+
+ - 🧠 Match with study buddies or mentors for specific courses or certifications.
+
+With gamified engagement, smart matchmaking, and a verified campus community, Campus Tech Connect acts as a hub for collaboration, learning, and innovation among the next generation of developers, engineers, and tech creators.
 
 ## Table of Contents
 
