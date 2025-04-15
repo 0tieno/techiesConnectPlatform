@@ -86,3 +86,81 @@ We welcome contributions from the community to improve and expand TechiesConnect
 ### Pages
 (![Prototype](public/Landing%20page.png))
 (![Prototype](public/techhub.png))
+
+## MVP Features
+
+1️⃣ **Student Profiles**
+- Fields: Name, major, year, skills (tags), interests, GitHub/LinkedIn links.
+- Place for “ask mentorship” for personal one on one mentoring
+
+2️⃣ **Project Matchmaking**
+- Students can post:
+  - Idea/Project Title
+  - Description
+  - Skills needed
+  - Timeline (optional)
+- Others can “Express Interest” or DM to join.
+
+3️⃣ **Community Feed**
+- Public feed for:
+  - Event announcements
+  - Help requests
+  - Wins or showcases
+  - Reactions + Comments
+
+4️⃣ **Event Hub**
+- List of upcoming tech events, club meetups, or hackathons.
+- Allow RSVP + set reminder.
+
+5️⃣ **Real-Time Help Desk**
+- Students post coding/dev/cloud/security questions.
+- Tagged by:
+  - Course (e.g., “CS203”)
+  - Tech (e.g., “Docker”, “Azure”)
+- Upvotes + badges for helpful responses.
+- Students can search others in the community and connect.
+
+## Pitch Deck Outline
+
+1. **Cover Slide / Intro Page**
+- Logo / App Name: techiesConnect
+- Tagline: "Where Campus Tech Minds Meet."
+- One-liner: A mobile-first platform connecting tech students to collaborate, learn, and launch real-world projects—right from campus.
+
+2. **Problem**
+- Tech students are disconnected across clubs, courses, and campuses.
+- No unified place to find project partners, ask questions, or explore events.
+- Existing platforms (LinkedIn, Discord, GitHub, Meetup) are fragmented and not student-centered.
+
+3. **Solution**
+- Campus Tech Connect unites students in a verified campus-only network where they can:
+  - Match with teammates
+  - Discover tech events
+  - Get real-time help
+  - Showcase skills and projects
+
+4. **Key Features**
+- 🧑‍💻 Skill-tagged Student Profiles
+- 🤝 Project Matchmaking
+- 🧠 Real-Time Help Desk
+- 🗓️ Campus Event Hub
+- 📚 Peer Mentorship & Study Buddy Finder
+- 🎮 Gamified Engagement
+
+5. **Target Audience**
+- University tech students
+- Campus clubs and hackathon organizers
+- TAs and student mentors
+- Startup-minded students and builders
+
+6. **Market Opportunity**
+- Millions of tech students globally.
+- Rising trend in student-led startups and hackathon culture.
+- Room for an education-first social+collab platform.
+
+7. **Competitive Landscape**
+- techiesConnect bridges the gap between platforms like GitHub (projects), Meetup (events), Stack Overflow (Q&A), and LinkedIn (profiles)—but built specifically for students.
+
+## Vision
+
+To become the go-to platform for student collaboration, innovation, and opportunity in tech—starting on campus, expanding globally.
